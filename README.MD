@@ -3,6 +3,7 @@ Overview
 
 This project contains UI automation tests for the SauceDemo application using Selenium WebDriver, Java, and TestNG.
 
+
 Tech Stack
 Java
 Selenium WebDriver
